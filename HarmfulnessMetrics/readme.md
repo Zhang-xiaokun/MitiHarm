@@ -1,6 +1,6 @@
 #### Revealing and Mitigating the Spread of Harmful Content in Recommender Systems  
 
-This is the code used to evaluate recommender systems' performance in terms of healthiness.
+This is the code used to evaluate recommender systems' performance in terms of harmfulness.
 
 The file harmfulnessMetric.ipynb is used to obtain recommender systems' performance under our proposed harmfulness-related metrics, HP@k and HO@k. 
 
@@ -24,3 +24,4 @@ In the file "harmfulnessMetric.ipynb", you can set MODEL and DATASET to examine 
 MODEL: GRU4Rec, NARM, BERT4Rec, GRU4Rec+, NARM+, BERT4Rec+ 
 
 DATASET: TN, QB, NERD
+
